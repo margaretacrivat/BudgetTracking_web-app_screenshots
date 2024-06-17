@@ -1,5 +1,7 @@
 # Budget Tracking - Django Website Application
 
+![Budget Tracking Homepage](static/assets/img/budget_tracking_homepage.jpg)
+
 ## About:
 Here you can find the screenshots for Budget Tracking web application, which I have developed using Django web framework.
 All backend logic, including the management of data and business logic, is implemented using Python. 
