@@ -7,3 +7,9 @@ This web app is designed to help users manage both personal budget and project-a
 within a single virtual environment. 
 The goal is to provide users with a comprehensive tool to track their expenses, set budget limits, and analyze their 
 financial data.
+
+## Contact
+- My name: Margareta Crivăț
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/margaretacrivat/)
+
+For more information, please visit my [GitHub](https://github.com/margaretacrivat) profile.
